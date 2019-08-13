@@ -14,6 +14,10 @@ This two folders contains all information we need and the hacker can find this i
 
 The tool is just a shortcut to read the webalizer for all users inside the server.
 
+------------
+
+
 **
 *This tool for Educational purpose only , to help the people who willing to make a bigger projects.***
 
+[![webalizerreader](https://raw.githubusercontent.com/Alaa-abdulridha/WebalizerReader/master/webalizer.png "webalizerreader")](https://raw.githubusercontent.com/Alaa-abdulridha/WebalizerReader/master/webalizer.png "webalizerreader")
